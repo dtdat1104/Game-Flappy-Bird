@@ -1,0 +1,57 @@
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\FlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameVersion1\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+F:\Project\LapTrinh\LapTrinhC#\DoAnGiuaKiWD\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Diep Thanh Dat\Desktop\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+F:\Project\LapTrinh\LapTrinhC#\DoAnCuoiKi\GameFlappyBird-DiepThanhDat-TranLeAnhQuoc\GameFlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
